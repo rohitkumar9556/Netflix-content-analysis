@@ -72,6 +72,36 @@ This project helps analyze viewers choice on watching movies.
 ## Dataset Information
 The dataset contains netflix movies data related information such as:
 
+1-Release_Date
+
+2-Title
+
+3-Overview
+
+4-Popularity
+
+5-Vote_Count
+
+6-Vote_Average
+
+7-Original_Language
+
+8-Genre
+
+9-Poster_Url
+
+## Project Workflow
+1. Data Collection
+Imported dataset using Pandas
+2. Data Cleaning
+Checked missing values
+
+Removed inconsistencies
+3. Exploratory Data Analysis
+Distribution Analysis
+Correlation Analysis
+Pairplot Visualization
+Boxplots and Scatterplots
 
 
 
