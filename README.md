@@ -1,4 +1,5 @@
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitkumarpatra455) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohitkumar9938) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkumarpatra033@gmail.com) 
 
@@ -132,6 +133,16 @@ df.isnull().sum()
 ```
 # Project Visualizations
 ## 1. Age Distribution
+<img width="506" height="510" alt="download" src="https://github.com/user-attachments/assets/fd4732a6-9192-4fdd-9b5c-d07512f16a04" />
+
+
+## Analysis
+we can notice from the above visual that Drama genre is the most frequent genre
+in our dataset and has appeared more than 14% of the times among 19 other
+genres.
+## 2.votes distribution
+
+<img width="404" height="405" alt="vote_disribution" src="https://github.com/user-attachments/assets/086988d2-232f-4353-9452-8d6104701490" />
 
 
 
