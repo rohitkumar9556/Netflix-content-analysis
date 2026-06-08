@@ -144,7 +144,8 @@ genres.
 
 <img width="404" height="405" alt="vote_disribution" src="https://github.com/user-attachments/assets/086988d2-232f-4353-9452-8d6104701490" />
 
-
+## Analysis 
+we can see from the above graph that verage category movies get most rating
 
 
 
