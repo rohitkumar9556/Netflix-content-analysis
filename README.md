@@ -13,9 +13,9 @@
 [![](https://komarev.com/ghpvc/?username=rohitkumar9556&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+---------------------------
 # Netflix-content-analysis
+---------------------------
 ## Project Overview
 This project analyzes netflix content to get business insights like which genre of movie most watched ,highest or lowest  rated movie  etc.  using Python-based Exploratory Data Analysis (EDA).
 
@@ -66,42 +66,72 @@ This project helps analyze viewers choice on watching movies.
   iii-  NumPy
   
   iv-Matplotlib
+
+  v-seaborn
   
-  v-jupyter notebook
+  vi-jupyter notebook
 
 ## Dataset Information
 The dataset contains netflix movies data related information such as:
 
-1-Release_Date
+**1-** Release_Date
 
-2-Title
+**2-** Title
 
-3-Overview
+**3-** Overview
 
-4-Popularity
+**4-** Popularity
 
-5-Vote_Count
+**5-** Vote_Count
 
-6-Vote_Average
+**6-** Vote_Average
 
-7-Original_Language
+**7-** Original_Language
 
-8-Genre
+**8-** Genre
 
-9-Poster_Url
+**9-** Poster_Url
 
-## Project Workflow
-1. Data Collection
+# Project Workflow
+## 1. Data Collection
 Imported dataset using Pandas
-2. Data Cleaning
-Checked missing values
+## 2. Data Cleaning
 
-Removed inconsistencies
-3. Exploratory Data Analysis
-Distribution Analysis
-Correlation Analysis
-Pairplot Visualization
-Boxplots and Scatterplots
+**(i)** Checked missing values
+
+**(ii)** checked duplicate value
+
+**(iii)** checked outlier
+
+**(iv)** split commas and spaces
+
+**(v)** categorization of column
+
+**(vi)** Removed inconsistencies
+## 3. Exploratory Data Analysis
+**(1)** Distribution Analysis
+
+**(2)** categorical Visualization
+
+**(3)** histogram plot
+# Import Libraries
+```bash
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+# Load Dataset
+```bash
+df = pd.read_csv(r"C:\Users\Admin\Downloads\mymoviedb.csv", lineterminator='\n')
+df.head()
+```
+# Data Cleaning
+```bash
+df.isnull().sum()
+```
+# Project Visualizations
+## 1. Age Distribution
 
 
 
