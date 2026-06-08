@@ -59,12 +59,18 @@ This project analyzes netflix content to get business insights like which genre 
 This project helps analyze viewers choice on watching movies.
 
 ## Technologies Used
-  Python
-  Pandas
-  NumPy
-  Matplotlib
-  jupyter notebook
+  i-Python
+  
+  ii- Pandas
+  
+  iii-  NumPy
+  
+  iv-Matplotlib
+  
+  v-jupyter notebook
 
+## Dataset Information
+The dataset contains netflix movies data related information such as:
 
 
 
