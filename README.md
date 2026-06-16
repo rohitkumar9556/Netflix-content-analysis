@@ -145,11 +145,29 @@ genres.
 <img width="404" height="405" alt="vote_disribution" src="https://github.com/user-attachments/assets/086988d2-232f-4353-9452-8d6104701490" />
 
 ## Analysis 
-we can see from the above graph that verage category movies get most rating
+we can see from the above graph that average category movies get most rating
 
+## Release date distribution
+<img width="451" height="345" alt="releasedatedisribution" src="https://github.com/user-attachments/assets/3e3034c4-8e1f-4060-b503-2e9bc9646244" />
 
-
-
+# CONCLUSION
+### Q1: What is the most frequent genre in the dataset?
+Drama genre is the most frequent genre in our dataset and has appeared more than
+14% of the times among 19 other genres.
+    
+### Q2: What genres has highest votes ?
+we have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the
+highest popularity among fans by being having more than 18.5% of movies popularities.
+    
+### Q3: What movie got the highest popularity ? what's its genre ?
+Spider-Man: No Way Home has the highest popularity rate in our dataset and it hagenres of Action , Adventure and Sience Fiction .
+    
+### Q4: What movie got the lowest popularity ? what's its genre ?
+The united states, thread' has the highest lowest rate in our dataset
+and it has genres of music , drama , 'war', 'sci-fi' and history`.
+    
+### Q5: Which year has the most filmmed movies?
+year 2020 has the highest filmming rate in our dataset.
 
 
 
